@@ -2,6 +2,6 @@
 # AUTHOR: wiiwaker
 # REPO: https://github.com/wiiwaker/rule_script
 # UPDATED: 2023-07-31 20:15:00
-DOMAIN,trqjrp.xyz
-DOMAIN,acaisbest.com
-DOMAIN,api-huacloud.net
+DOMAIN-SUFFIX,trqjrp.xyz
+DOMAIN-SUFFIX,acaisbest.com
+DOMAIN-SUFFIX,api-huacloud.net
